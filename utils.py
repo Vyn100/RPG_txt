@@ -1,0 +1,1 @@
+# Fonctions utilitaires comme la sauvegarde, le chargement ou la gestion d'événements aléatoires.
